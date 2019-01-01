@@ -1,1 +1,1 @@
-# node-maile
+# node-mailer
